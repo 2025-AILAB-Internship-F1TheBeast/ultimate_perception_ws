@@ -1,0 +1,6 @@
+[submodule "src/obstacle_detection_pkg"]
+	path = src/obstacle_detection_pkg
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/obstacle_detection_pkg.git
+[submodule "src/particle_filter_cpp"]
+	path = src/particle_filter_cpp
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/particle_filter_cpp.git
